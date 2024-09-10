@@ -21,7 +21,7 @@ def preprocess_data(input_data):
     return input_data
 
 
-st.title('Predict failure events for Oxland Offshore Wind Farm')
+st.title('Predict wind turbine failure events')
 
 
 st.write('##### Choose a machine learning model for your prediction:')
